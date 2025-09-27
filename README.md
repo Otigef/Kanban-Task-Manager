@@ -1,0 +1,2 @@
+# Kanban-Task-Manager
+A responsive Task Management Application with drag-and-drop functionality for organizing tasks across 'To Do', 'In Progress', and 'Done' columns. Tasks are persisted in the browser's local storage.
